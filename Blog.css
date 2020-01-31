@@ -1,0 +1,46 @@
+body{
+	width : 55%;
+	margin-left: 20%;
+	margin-top: 3%;
+	
+	border-style: solid;
+	border-width: 18px;
+	border-color: #bdc3c7;
+
+}
+
+#date {
+	text-transform: uppercase;
+	color: #3498db;
+	padding-top: 25px;
+	padding-left: 15px;
+}
+
+#date1 {
+	text-transform: uppercase;
+	color: #3498db;
+	padding-top: 10px;
+	padding-left: 15px;
+}
+h2{
+	color: #2c3e50;
+	padding-left: 15px;
+	font-weight: bold;
+}
+
+p {
+	font-family: Source Sans Pro;
+	padding-left: 15px;
+
+}
+
+.firstborder{
+	border-bottom: 5px solid #f1f1f1;
+	padding-bottom: 16px;
+	border-width: 10%;
+}
+
+.first {
+	border-left: 5px solid #bdc3c7;
+	margin-left: 16px;
+	padding: 7px;
